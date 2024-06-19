@@ -7,7 +7,7 @@
 **White's Wondercraft** is a Vanilla+ modpack for making Minecraft more fun with friends.
 
 ## Mods
-mail
+
 - Loading Screen Tips [1.3.4] by UltrusBot
 - [Paladin's Furniture](https://www.curseforge.com/minecraft/mc-mods/paladins-furniture) [1.2.1] by UnlikePaladinimmediately
 - [Craftable Horse Armour & Saddle](https://www.curseforge.com/minecraft/mc-mods/cha-s) [1.20] by Ewymail
