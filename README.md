@@ -9,7 +9,7 @@
 ##Mods
 
 - Loading Screen Tips [1.3.4] by UltrusBot
-- [Paladin's Furniture](https://www.curseforge.com/minecraft/mc-mods/paladins-furniture) [1.2.1] by UnlikePaladin
+- [Paladin's Furniture](https://www.curseforge.com/minecraft/mc-mods/paladins-furniture) [1.2.1] by UnlikePaladinimmediately
 - [Craftable Horse Armour & Saddle](https://www.curseforge.com/minecraft/mc-mods/cha-s) [1.20] by Ewy
 - Crops Love Rain [1.5.0+1.20.4] by ThePoultryMan
 - [BotanyPots](https://www.curseforge.com/minecraft/mc-mods/botany-pots) [16.0.4] by Darkhax
@@ -79,4 +79,4 @@
 
 ###Contact
 
-If you own one of these mods and i did something wrong, send me a [e-mail](kerim_can05@proton.me) and i will fix the issues immediately. And if you want, you can suggest your mod for pack.
+If you own one of these mods and i did something wrong, send me a [e-mail](<kerim_can05@proton.me>) and i will fix the issues immediately. And if you want, you can suggest your mod for pack.
