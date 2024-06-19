@@ -2,12 +2,12 @@
 
 # WHITE'S WONDERCRAFT
 
-##Introduction
+## Introduction
 
 **White's Wondercraft** is a Vanilla+ modpack for making Minecraft more fun with friends.
 
-##Mods
-
+## Mods
+mail
 - Loading Screen Tips [1.3.4] by UltrusBot
 - [Paladin's Furniture](https://www.curseforge.com/minecraft/mc-mods/paladins-furniture) [1.2.1] by UnlikePaladinimmediately
 - [Craftable Horse Armour & Saddle](https://www.curseforge.com/minecraft/mc-mods/cha-s) [1.20] by Ewymail
@@ -77,6 +77,6 @@
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) [2.3.4+1.20.4] by LambdAurora
 - GeckoLibIrisCompat [1.0.0] by ElocinDev
 
-###Contact
+### Contact
 
 If you own one of these mods and i did something wrong, send me a [e-mail](mailto:kerim_can05@proton.me) and i will fix the issues immediately. And if you want, you can suggest your mod for pack.
