@@ -1,0 +1,13 @@
+name = "Paladin's Furniture"
+filename = "paladin-furniture-mod-1.2.1-fabric-mc1.20.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92184ab8d991b476600201919db8c3e3299d2a59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5149503
+project-id = 663141

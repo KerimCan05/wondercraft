@@ -1,0 +1,13 @@
+name = "White's Wondercraft"
+author = "KerimCan005"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c7f77c82c73f2efc77a3cf6a56cffdd48d0e858aee769563bb6d338b0f997715"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.4"

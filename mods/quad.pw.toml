@@ -1,0 +1,13 @@
+name = "Quad"
+filename = "Quad-1.2.3+1.20.4-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "375afb41bd749b3c0b84cb07ffd5c9bf7a07ee4f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5387913
+project-id = 932715

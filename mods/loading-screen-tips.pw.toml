@@ -1,0 +1,13 @@
+name = "Loading Screen Tips"
+filename = "loadingscreentips-1.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64ddfc307c34ef4d49a71c46e0a3d8687bca539d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4957216
+project-id = 527804

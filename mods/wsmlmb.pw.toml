@@ -1,0 +1,13 @@
+name = "what should my library be?"
+filename = "wsmlmb-1.1.0+1.20.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54518d5b0583416d557f8de4ced53286d4c82a88"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4970241
+project-id = 932603

@@ -1,0 +1,13 @@
+name = "More Crafting Tables (MCT)"
+filename = "MoreCraftingTables-1.2.7+1.20.4-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7c4dfe9365a34f2c4e1a52c5126170d029077a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5330969
+project-id = 913586
